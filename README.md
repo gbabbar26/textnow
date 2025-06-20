@@ -2,7 +2,7 @@
 
 A fully secure, real-time messaging system built using **AES-GCM**, **ECDSA**, and **ECDH**, designed as a course project for **Applied Cryptography @ NYU (Spring 2025)**. This project replicates the architecture of real-world encrypted platforms like Signal and WhatsApp — with authentication, replay protection, and GUI-based communication.
 
-> [Final Report]>(./report/TextNow_Final_Report.docx)**
+> [Final Report (DOCX)]>(./TextNow_Final_Report.docx)**
 
 
 ---
